@@ -1,0 +1,38 @@
+C:\Users\shubhankar\Desktop\Day3\SkeletonRecognition\SkeletonRecognition\bin\Debug\SkeletonRecognition.exe.config
+C:\Users\shubhankar\Desktop\Day3\SkeletonRecognition\SkeletonRecognition\bin\Debug\SkeletonRecognition.exe
+C:\Users\shubhankar\Desktop\Day3\SkeletonRecognition\SkeletonRecognition\bin\Debug\SkeletonRecognition.pdb
+C:\Users\shubhankar\Desktop\Day3\SkeletonRecognition\SkeletonRecognition\obj\Debug\MainWindow.baml
+C:\Users\shubhankar\Desktop\Day3\SkeletonRecognition\SkeletonRecognition\obj\Debug\MainWindow.g.cs
+C:\Users\shubhankar\Desktop\Day3\SkeletonRecognition\SkeletonRecognition\obj\Debug\App.g.cs
+C:\Users\shubhankar\Desktop\Day3\SkeletonRecognition\SkeletonRecognition\obj\Debug\SkeletonRecognition_MarkupCompile.cache
+C:\Users\shubhankar\Desktop\Day3\SkeletonRecognition\SkeletonRecognition\obj\Debug\SkeletonRecognition.g.resources
+C:\Users\shubhankar\Desktop\Day3\SkeletonRecognition\SkeletonRecognition\obj\Debug\SkeletonRecognition.Properties.Resources.resources
+C:\Users\shubhankar\Desktop\Day3\SkeletonRecognition\SkeletonRecognition\obj\Debug\SkeletonRecognition.csproj.GenerateResource.Cache
+C:\Users\shubhankar\Desktop\Day3\SkeletonRecognition\SkeletonRecognition\obj\Debug\SkeletonRecognition.exe
+C:\Users\shubhankar\Desktop\Day3\SkeletonRecognition\SkeletonRecognition\obj\Debug\SkeletonRecognition.pdb
+C:\Users\shubhankar\Desktop\Day3\SkeletonRecognition\SkeletonRecognition\obj\Debug\SkeletonRecognition.csprojResolveAssemblyReference.cache
+C:\Users\HP-PC\Desktop\workshop\Day3.ext\SkeletonRecognition\SkeletonRecognition\bin\Debug\SkeletonRecognition.exe.config
+C:\Users\HP-PC\Desktop\workshop\Day3.ext\SkeletonRecognition\SkeletonRecognition\obj\Debug\SkeletonRecognition.exe
+C:\Users\HP-PC\Desktop\workshop\Day3.ext\SkeletonRecognition\SkeletonRecognition\obj\Debug\SkeletonRecognition.pdb
+C:\Users\HP-PC\Desktop\workshop\practice\SkeletonRecognition\SkeletonRecognition\bin\Debug\SkeletonRecognition.exe.config
+C:\Users\HP-PC\Desktop\workshop\practice\SkeletonRecognition\SkeletonRecognition\obj\Debug\SkeletonRecognition.exe
+C:\Users\HP-PC\Desktop\workshop\practice\SkeletonRecognition\SkeletonRecognition\obj\Debug\SkeletonRecognition.pdb
+C:\Users\HP-PC\Desktop\workshop\practice\SkeletonRecognition\SkeletonRecognition\bin\Debug\SkeletonRecognition.exe
+C:\Users\HP-PC\Desktop\workshop\practice\SkeletonRecognition\SkeletonRecognition\bin\Debug\SkeletonRecognition.pdb
+C:\Users\HP-PC\Desktop\workshop\practice\SkeletonRecognition\SkeletonRecognition\obj\Debug\SkeletonRecognition.csprojResolveAssemblyReference.cache
+C:\Users\HP-PC\Desktop\workshop\practice\SkeletonRecognition\SkeletonRecognition\obj\Debug\MainWindow.baml
+C:\Users\HP-PC\Desktop\workshop\practice\SkeletonRecognition\SkeletonRecognition\obj\Debug\MainWindow.g.cs
+C:\Users\HP-PC\Desktop\workshop\practice\SkeletonRecognition\SkeletonRecognition\obj\Debug\App.g.cs
+C:\Users\HP-PC\Desktop\workshop\practice\SkeletonRecognition\SkeletonRecognition\obj\Debug\SkeletonRecognition_MarkupCompile.cache
+C:\Users\HP-PC\Desktop\workshop\practice\SkeletonRecognition\SkeletonRecognition\obj\Debug\SkeletonRecognition.g.resources
+C:\Users\HP-PC\Desktop\workshop\practice\SkeletonRecognition\SkeletonRecognition\obj\Debug\SkeletonRecognition.Properties.Resources.resources
+C:\Users\HP-PC\Desktop\workshop\practice\SkeletonRecognition\SkeletonRecognition\obj\Debug\SkeletonRecognition.csproj.GenerateResource.Cache
+G:\pr\SkeletonRecognition\SkeletonRecognition\bin\Debug\SkeletonRecognition.exe.config
+G:\pr\SkeletonRecognition\SkeletonRecognition\obj\Debug\SkeletonRecognition.exe
+G:\pr\SkeletonRecognition\SkeletonRecognition\obj\Debug\SkeletonRecognition.pdb
+F:\Extra Studies\Human Computer Interaction\pr\SkeletonRecognition\SkeletonRecognition\bin\Debug\SkeletonRecognition.exe.config
+F:\Extra Studies\Human Computer Interaction\pr\SkeletonRecognition\SkeletonRecognition\obj\Debug\SkeletonRecognition.exe
+F:\Extra Studies\Human Computer Interaction\pr\SkeletonRecognition\SkeletonRecognition\obj\Debug\SkeletonRecognition.pdb
+C:\Users\Brijendra Singh\Desktop\pr\SkeletonRecognition\SkeletonRecognition\bin\Debug\SkeletonRecognition.exe.config
+C:\Users\Brijendra Singh\Desktop\pr\SkeletonRecognition\SkeletonRecognition\obj\Debug\SkeletonRecognition.exe
+C:\Users\Brijendra Singh\Desktop\pr\SkeletonRecognition\SkeletonRecognition\obj\Debug\SkeletonRecognition.pdb

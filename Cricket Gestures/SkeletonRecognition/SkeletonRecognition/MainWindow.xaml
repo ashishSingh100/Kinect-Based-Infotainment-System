@@ -1,0 +1,10 @@
+﻿<Window x:Class="SkeletonRecognition.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="700" Width="700" Loaded="Window_Loaded" Closing="Window_Closing">
+    <Grid>
+        <TextBlock Name="SkeletonPosition" Text="No Skeleton Tracked" HorizontalAlignment="Left" />
+        <TextBlock Name="DetectedGestureName" Text="No Gesture Detected" HorizontalAlignment="Right" />
+        <Image Name="SkeletalImage" Height="480" Width="640"/>
+    </Grid>
+</Window>
